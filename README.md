@@ -1,0 +1,1 @@
+This project investigates techniques for enabling smooth curved turns in FLL robots. By employing the simplest robot design, this project aims to provide accessible solutions for teams looking to improve navigation without additional complexity.
